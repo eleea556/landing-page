@@ -187,3 +187,13 @@ blockquote {
   border: 2px solid slategray;
   padding: 100px;
 }
+
+
+/* HEADER */
+
+header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+}
