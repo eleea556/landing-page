@@ -76,3 +76,16 @@ ul {
 li {
   list-style: none;
 }
+
+
+/* BUTTONS */
+
+button {
+  padding: 8px 24px;
+  border: 2px solid #3882F6;
+  border-radius: 8px;
+}
+
+.btn-alt {
+  border: 2px solid white;
+}
