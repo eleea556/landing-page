@@ -89,3 +89,11 @@ button {
 .btn-alt {
   border: 2px solid white;
 }
+
+/* FOOTER */
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
