@@ -110,8 +110,8 @@ footer {
 /* CTA */
 
 .cta {
-  width: 800px;
-  padding: 40px 150px;
+  max-width: 800px;
+  padding: 40px 100px;
   border-radius: 8px;
   margin: 100px auto;
   display: flex;
@@ -126,7 +126,8 @@ footer {
 }
 
 .quote figure {
-  width: 800px;
+  max-width: 800px;
+  padding: 0 100px;
   margin: 0 auto; 
 }
 
@@ -167,6 +168,7 @@ footer {
   justify-content: center;
   gap: 128px;
   align-items: center;
+  flex-wrap: wrap;
   padding: 80px 0;
 }
 
