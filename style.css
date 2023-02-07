@@ -50,3 +50,29 @@ blockquote {
   font-weight: 500;
   font-size: 24px;
 }
+
+
+/* GENERAL STYLES */
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  display: flex;
+  gap: 32px;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
