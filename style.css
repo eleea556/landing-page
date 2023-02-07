@@ -1,0 +1,52 @@
+/* COLORS AND FONTS */
+
+html {
+  font-family: 'Roboto', sans-serif;;
+}
+
+header, .hero, footer {
+  background-color: #1F2937;
+}
+
+.hero h1 {
+  font-size: 48px;
+  font-weight: 900;
+  color: #F9FAF8;
+}
+
+.hero p, header a, footer, .hero img {
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
+.logo {
+  font-size: 24px;
+  color: #F9FAF8;
+}
+
+button, .cta {
+  background-color: #3882F6;
+  color: white;
+}
+
+.information h3 {
+  font-size: 36px;
+  font-weight: 900;
+  color: #1F2937;
+}
+
+.quote {
+  background-color: #E5E7EB;
+}
+
+blockquote {
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+  color: #1F2937;
+}
+
+.quote figcaption {
+  font-weight: 500;
+  font-size: 24px;
+}
