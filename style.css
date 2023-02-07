@@ -114,3 +114,22 @@ footer {
   justify-content: space-between;
   align-items: center;
 }
+
+/* QUOTE */
+
+.quote {
+  padding: 100px 0;
+}
+
+.quote figure {
+  width: 800px;
+  margin: 0 auto; 
+}
+
+blockquote {
+  margin: 0;
+}
+
+.quote figcaption {
+  text-align: right;
+}
